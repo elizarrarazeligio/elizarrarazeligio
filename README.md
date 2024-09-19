@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! Welcome back! 😀</h1>
-
+<img src="./header__banner.png" width="100%"/>
 <!--
 **elizarrarazeligio/elizarrarazeligio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
