@@ -13,18 +13,26 @@
     </ul>
 </div>
 <div display="flex" align="center">
-    <br>
     <a href="https://www.linkedin.com/in/eligio-elizarraraz-molina-a21b06261/">
-        <img alt="LinkedIn icon" src="./images/linkedin.png"/ width="50">
+        <img alt="LinkedIn icon" src="./images/linkedin.png"/ width="50"/>
     </a>
     <a href="https://www.instagram.com/elizarrarazeligio/">
-        <img alt="Instagram icon" src="./images/instagram.png"/ width="50">
+        <img alt="Instagram icon" src="./images/instagram.png"/ width="50"/>
     </a>
     <a href="https://m.facebook.com/eligio.elizarraraz/">
-        <img alt="Facebook icon" src="./images/facebook.png"/ width="50">
+        <img alt="Facebook icon" src="./images/facebook.png"/ width="50"/>
     </a>
     <br>
 </div>
 
 <h2>Things I code with</h2>
+<p>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&logoSize=auto"/>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-2965f1?logo=css3&logoColor=white&logoSize=auto"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=f0db4f&logoSize=auto"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B&logoSize=auto"/>
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-044F88?logo=c%2B%2B&logoColor=5E97D0&logoSize=auto"/>
+    <img alt="R" src="https://img.shields.io/badge/R-919198?logo=R&logoColor=276DC2&logoSize=auto
+    "/>
+</p>
 
