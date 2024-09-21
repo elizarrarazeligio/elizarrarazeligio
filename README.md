@@ -41,7 +41,7 @@
 
 <h2>Statistics</h2>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=pie" alt="GitHub Top Languages" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak" width="45%"/>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=pie" alt="GitHub Top Languages" width="45%"/></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak" width="45%"/></p>
 </div>
