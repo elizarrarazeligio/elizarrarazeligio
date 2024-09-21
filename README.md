@@ -41,7 +41,7 @@
 
 <h2>Statistics</h2>
 <div display="flex" align-items="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="100%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=compact" alt="GitHub Top Languages" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="50%%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=compact" alt="GitHub Top Languages" width="50%">
 </div>
