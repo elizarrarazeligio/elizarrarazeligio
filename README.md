@@ -40,8 +40,8 @@
 <img src="./images/wordcloud.png" width="100%"/>
 
 <h2>Statistics</h2>
-<div display="flex" align="center" flex-direction="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="40%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak" width="40%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=compact" alt="GitHub Top Languages" width="40%"/>
+<div align="center" flex-direction="column">
+    <div><img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="40%"/></div>
+    <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak" width="40%"/></div>
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=compact" alt="GitHub Top Languages" width="40%"/></div>
 </div>
