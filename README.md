@@ -40,7 +40,7 @@
 <img src="./images/wordcloud.png" width="100%"/>
 
 <h2>Statistics</h2>
-<div display="grid" grid-template-columns="repeat(3, 1fr)">
+<div display="grid" grid-template-columns="repeat(3, 1fr)" width="100%">
     <img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=compact" alt="GitHub Top Languages">
