@@ -40,7 +40,7 @@
 <img src="./images/wordcloud.png" width="100%"/>
 
 <h2>Statistics</h2>
-<table align="center" width="100%" border="none">
+<table align="center" width="100%" border="0">
     <tr width="50%">
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="100%"/>
