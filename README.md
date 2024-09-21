@@ -34,4 +34,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-044F88?logo=c%2B%2B&logoColor=5E97D0&logoSize=auto"/>
     <img alt="R" src="https://img.shields.io/badge/R-919198?logo=R&logoColor=276DC2&logoSize=auto"/>
 </p>
+<br>
 
+<h2>Goals and values...</h2>
+<img src="./images/wordcloud.png" width="100%"/>
