@@ -40,12 +40,14 @@
 <img src="./images/wordcloud.png" width="100%"/>
 
 <h2>Statistics</h2>
-<div align="center" width="100%" display="flex" flex-direction="rows">
-    <div display="flex" align="center" flex-direction="column" width="50%">
-        <div><img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="100%"/></div>
-        <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak" width="100%"/></div>
+<div align="center">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats" width="40%"/>
     </div>
-    <div align="center" width="50%">
-        <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=pie" alt="GitHub Top Languages" width="100%"/></div>
+    <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&amp" alt="GitHub Streak" width="40%"/>
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&amp;show_icons=true&layout=pie" alt="GitHub Top Languages" width="40%"/>
     </div>
 </div>
