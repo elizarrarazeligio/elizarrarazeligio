@@ -40,11 +40,8 @@
 <img src="./images/wordcloud.png" width="100%"/>
 
 <h2>Statistics</h2>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats"></p>
-
-![elizarrarazeligio's Stats](https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![elizarrarazeligio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&theme=vue-dark&hide_border=true)
-
-![elizarrarazeligio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div display="flex" wrap"nowrap">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=elizarrarazeligio&amp;show_icons=true" alt="GitHub Stats"></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elizarrarazeligio&theme=vue-dark&hide_border=true" alt="GitHub Streak"></p>
+    <p><img src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=elizarrarazeligio&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Top Languages"></p>
+</div>
