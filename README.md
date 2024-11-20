@@ -33,6 +33,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B&logoSize=auto"/>
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-044F88?logo=c%2B%2B&logoColor=5E97D0&logoSize=auto"/>
     <img alt="R" src="https://img.shields.io/badge/R-919198?logo=R&logoColor=276DC2&logoSize=auto"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-white?logo=TypeScript&logoColor=%233178c6&labelColor=white&color=3178c6"/>
 </p>
 <br>
 
