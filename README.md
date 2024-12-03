@@ -2,7 +2,7 @@
 <img src="./images/header__banner.png" width="100%"/>
 
 <h2>About me</h2>
-<p>My name is Eligio, from <b>Guanajuato, Mexico</b> <img src="./images/mexico_flag.png" alt="Mexico flag icon" width="13"/>, and I am currently developing myself through <b>Web Developing</b> and <b>Data Analytics</b> programs! </p>
+<p>My name is Eligio, from <b>Guanajuato, Mexico</b> <img src="./images/mexico_flag.png" alt="Mexico flag icon" width="13"/>, and I am currently developing myself through <b>Web Development</b> and <b>Data Analytics</b> programs! </p>
 
 <div>
     <ul>
